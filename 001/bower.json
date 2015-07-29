@@ -1,0 +1,21 @@
+{
+  "name": "cn-coding-dojo",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    ""
+  ],
+  "description": "",
+  "main": "src/index.html",
+  "license": "commercial",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}

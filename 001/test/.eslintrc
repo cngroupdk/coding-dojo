@@ -1,0 +1,15 @@
+{
+  "globals": {
+    "angular": false,
+    "inject": false
+  },
+  "env": {
+    "browser": true,
+    "node": true,
+    "jasmine": true
+  },
+  rules: {
+    "camelcase": [2, {"properties": "never"}],
+    "quotes": 0
+  }
+}
