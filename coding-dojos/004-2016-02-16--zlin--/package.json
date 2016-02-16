@@ -1,0 +1,12 @@
+{
+  "name": "coding-dojo-004",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {},
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
