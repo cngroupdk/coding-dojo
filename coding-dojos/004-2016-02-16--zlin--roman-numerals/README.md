@@ -1,6 +1,6 @@
 # Coding Dojo 004
 
-- problem: **TBD**
+- problem: **Roman numerals** - conversion from Roman to Arabic
 - language: **JavaScript**
 
 ## Requirements
